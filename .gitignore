@@ -1,0 +1,15 @@
+# Ignore virtual environment
+jsonparse/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs and database files
+*.log
+*.sqlite3
+
+# Ignore environment variable files
+.env
